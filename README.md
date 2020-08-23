@@ -2,9 +2,7 @@
 Demo Project for webservice implementing for a CRUD operation in GO with  handler , routing and establishing and listening web server.
 
 
-Run :
-go build .
-./webservice.exe ----> server started on port 3000
+Run : go build . ---------- Create an executable webservice.exe  -------------  ./webservice.exe ----> server started on port 3000
 
 Get Users : localhost:3000/users ---- HTTP VERB  ---- GET
 
